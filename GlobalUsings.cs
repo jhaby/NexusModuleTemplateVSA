@@ -1,0 +1,15 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using Microsoft.EntityFrameworkCore;
+global using MediatR;
+global using FluentValidation;
+global using Carter;
+global using NexusModuleTemplate.Contracts;
+global using NexusModuleTemplate.Data;
+global using NexusModuleTemplate.Entities;
+global using Microsoft.AspNetCore.Builder;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Routing;
